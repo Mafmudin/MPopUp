@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OwnToast</string>
+    <string name="woops">Woops</string>
+    <string name="woops_message">Ahai Woops</string>
+    <string name="txt_cancel">Cancle</string>
+    <string name="txt_ok">Ok</string>
+</resources>
