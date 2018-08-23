@@ -101,6 +101,7 @@ mPopUp.in(MainActivity.this)
 * ```setBgColor(int color)```, digunakan untuk mengubah warna background pop up
 * ```setRadius(folat radius)```, di gunakan untuk mengubah tepi pop up rounded atau persegi
 * ```show()```, di gunakan untuk menampilkan pop up
+
 ```
                 mPopUp.setOnOkClickListener(new MPopUp.OnClick() {
                     @Override
