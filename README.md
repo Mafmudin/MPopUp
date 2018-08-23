@@ -50,7 +50,9 @@ final MPopUp mPopUp = new MPopUp();
 final View customview = mPopUp.customLayout(R.layout.popup_dialog, MainActivity.this);
 //buatlah variabel view dan panggil fungsi customLayout dari class MPopUp yang akan mengembalikan view berdasarkan layout yang dibuat dengan tampilan dialog
 ```
-*kemudian gunakan komponen yang ada pada layout
+
+* kemudian gunakan komponen yang ada pada layout
+
 ```
 Button ok = customview.findViewById(R.id.btn_ok);
 Button cancel = customview.findViewById(R.id.btn_cancel);
