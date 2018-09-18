@@ -14,7 +14,7 @@ allprojects {
 * lalu, tambahkan dependesi berikut kedalam file ```build.gradle``` (module aplikasi)
 ```
 dependencies {
-	 implementation 'com.github.Mafmudin:MPopUp:v1'
+	 implementation 'com.github.mafmudin:MPopUp:v1'
 }
 ```
 
@@ -34,7 +34,7 @@ dependencies {
 
 ```
 <dependency>
-	<groupId>com.github.Mafmudin</groupId>
+	<groupId>com.github.mafmudin</groupId>
 	<artifactId>MPopUp</artifactId>
 	<version>v1</version>
 </dependency>
